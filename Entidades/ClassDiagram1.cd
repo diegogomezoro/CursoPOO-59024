@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Banco">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAABAAAAAAAAAAABAAAAAAAAAAAFAAAAAQAA=</HashCode>
+      <FileName>Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.CajaDeAhorro">
+    <Position X="9.25" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAgAAAAEAAACAAAAAAAAAAAEAAAAGAAA=</HashCode>
+      <FileName>CajaDeAhorro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cliente">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAkABAAQAAECEEAAAgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.CuentaCorriente">
+    <Position X="6" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAgAAAAEAAACAAAAAAAAAAAEAAAAGAAA=</HashCode>
+      <FileName>CuentaCorriente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="titular" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Direccion">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAQAAAAAAAAIAAAAQAAAAAAAAAEAAAAAAAQ=</HashCode>
+      <FileName>Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DNI">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAQAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>DNI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Producto">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sucursal">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAIAAAAAAAAAAAgAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Sucursal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
